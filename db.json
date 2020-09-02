@@ -2,10 +2,15 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "eng",
+      "name" : "sagar",
+      "city" : "Delhi",
+      "email" : "sag@sag.com"
     }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "typicode",
+      "city" : "Delhi",
+      "email" : "sag@sag.com"
   }
 }
